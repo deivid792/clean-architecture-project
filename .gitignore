@@ -46,7 +46,6 @@ tsconfig.tsbiuldinfo
 # temp directory
 .temp
 .tmp
-
 # Runtime data
 pids
 *.pid
