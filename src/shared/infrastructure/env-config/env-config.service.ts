@@ -4,13 +4,13 @@ import { ConfigService } from '@nestjs/config';
 
 @Injectable()
 export class EnvConfigService implements EnvConfig {
-  ConfigService: any;
-  constructor( private configService: ConfigService) {}
+  constructor(private configService: ConfigService) {}
+
   getAppPort(): number {
-    //return Number( value: this.ConfigService.get<number>(propertyPath: 'PORT'))
-    throw new Error('Method not implemented.');
+    return Number(this.configService.get<number>('PORT'));
   }
+
   getNodeEnv(): string {
-    throw new Error('Method not implemented.');
+    return this.configService.get<string>('NODE_ENV');
   }
 }
