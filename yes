@@ -1,0 +1,41 @@
+[33mcommit c90c9632b77eba7ff8b107702491632e9e4d130f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Sun Aug 11 20:43:57 2024 -0300
+
+    correcting errors in the service
+
+[33mcommit 0f7cccf5313711096685e3e8b334e4ff6b3d124e[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Thu Aug 8 03:45:48 2024 -0300
+
+    correcting errors
+
+[33mcommit ee32ecf35d3957916901c6d11d7e5a7d5b4327a2[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Tue Jul 30 03:45:31 2024 -0300
+
+    adding config module
+
+[33mcommit 96d58a6d70ba1127be8bf3bee6d32966d27dac42[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Tue Jul 30 03:19:09 2024 -0300
+
+    config dev enviroment
+
+[33mcommit bf2b3dded64b0edc27b45f5a2d5f7c99cfe7bd01[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Wed Jul 24 04:42:07 2024 -0300
+
+    config development
+
+[33mcommit a2bbcbf92fce89e7575250dcc00d904021f5ea87[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Tue Jul 23 05:20:03 2024 -0300
+
+    environment editing
+
+[33mcommit 2c6e177944d5acf3d15b13f9171baaf34efebdc5[m
+Author: Deivid <deividcastro792@gmail.com>
+Date:   Tue Jul 23 04:44:21 2024 -0300
+
+    creating initial files
